@@ -2,3 +2,4 @@
 Simple Projects to help learn and understand Machine Learning for Data Analytics
 
 1. An spam email detector
+2. Weather prediction Model
