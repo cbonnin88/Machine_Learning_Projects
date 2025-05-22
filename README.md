@@ -5,3 +5,4 @@ Simple Projects to help learn and understand Machine Learning for Data Analytics
 2. Weather prediction Model
 3. Recipe generator Model
 4. A Fashion Recommendation Model
+5. A House Price Prediction Model
