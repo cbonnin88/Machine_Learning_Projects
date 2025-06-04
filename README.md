@@ -7,3 +7,4 @@ Simple Projects to help learn and understand Machine Learning for Data Analytics
 4. A Fashion Recommendation Model
 5. A House Price Prediction Model
 6. A Healthcare ML Model
+7. Sentiment Analysis
